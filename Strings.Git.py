@@ -6,5 +6,6 @@ def compare_string(string1, string2):
     if string1 == string2: 
         return True 
     else: 
-        return False 
+        return False
+    hi
     
